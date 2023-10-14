@@ -1,7 +1,7 @@
 homepage-personal
 =================
 
-### Live Demo: <a href="https://djordjeivanovic9.github.io/homepage/">link</a>
+### Live Demo: <a href="https://djordjeivanovic9.github.io/homepage-personal/">link</a>
 
 ### Default Home
 <img src="homepage.png" alt="Home" width="100%"/>
